@@ -1,3 +1,5 @@
+Archived lab notes (Apr–Jul 2026). Current write-up: https://gunkr.com/lab
+
 # Gun Hermes Use Cases
 
 Public-safe case studies showing how I use Hermes as a complementary AI operator alongside OpenClaw.
