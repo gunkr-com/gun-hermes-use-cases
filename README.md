@@ -10,7 +10,7 @@ Hermes started as a backup audit and recovery lane for OpenClaw. It is now also 
 
 - A recruiter-friendly portfolio of real AI-operations use cases.
 - A sanitized record of where Hermes performs well.
-- A companion to [`gun-openclaw-use-cases`](https://github.com/ulttla/gun-openclaw-use-cases), not a replacement.
+- A companion to [`gun-openclaw-use-cases`](https://github.com/gunkr-com/gun-openclaw-use-cases), not a replacement.
 
 ## Current use-case tracks
 
